@@ -12,4 +12,4 @@ app.get('/api', (req, res) => {
     res.send(JSON.stringify(data))
 })
 
-app.listen(8080);
+app.listen(process.env.NODE_PORT || 8080);
