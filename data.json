@@ -1,5 +1,6 @@
 [
     {
+        "id": "h5QbZc",
         "name": "Apples",
         "price": 2.89,
         "quantity": 10,
@@ -7,6 +8,7 @@
         "category": "Fruit"
     },
     {
+        "id": "1n102e",
         "name": "Bananas",
         "price": 3.12,
         "quantity": 4,
@@ -14,6 +16,7 @@
         "category": "Fruit"
     },
     {
+        "id": "dvJAen",
         "name": "Bell Peppers",
         "price": 0.90,
         "quantity": 12,
@@ -21,6 +24,7 @@
         "category": "Vegetable"
     },
     {
+        "id": "7jagLT",
         "name": "Blackberries",
         "price": 0.78,
         "quantity": 4,
@@ -28,6 +32,7 @@
         "category": "Fruit"
     },
     {
+        "id": "2Ff1PV",
         "name": "Blueberries",
         "price": 2.34,
         "quantity": 110,
@@ -35,6 +40,7 @@
         "category": "Fruit"
     },
     {
+        "id": "onsCkX",
         "name": "Carrots",
         "price": 1.12,
         "quantity": 53,
@@ -42,6 +48,7 @@
         "category": "Vegetable"
     },
     {
+        "id": "WmDd3L",
         "name": "Corn",
         "price": 1.09,
         "quantity": 232,
@@ -49,6 +56,7 @@
         "category": "Vegetable"
     },
     {
+        "id": "CUTZRU",
         "name": "Cucumber",
         "price": 3.12,
         "quantity": 2,
@@ -56,6 +64,7 @@
         "category": "Vegetable"
     },
     {
+        "id": "vvDwyf",
         "name": "Eggplant",
         "price": 4.12,
         "quantity": 1,
@@ -63,6 +72,7 @@
         "category": "Vegetable"
     },
     {
+        "id": "81StFl",
         "name": "Green Beans",
         "price": 1.90,
         "quantity": 20,
@@ -70,6 +80,7 @@
         "category": "Vegetable"
     },
     {
+        "id": "20CquW",
         "name": "Lemons",
         "price": 1.12,
         "quantity": 4,
@@ -77,6 +88,7 @@
         "category": "Fruit"
     },
     {
+        "id": "xq5LkG",
         "name": "Orange",
         "price": 1.13,
         "quantity": 1,
@@ -84,6 +96,7 @@
         "category": "Fruit"
     },
     {
+        "id": "I02Vwl",
         "name": "Raspberries",
         "price": 0.55,
         "quantity": 44,
@@ -91,6 +104,7 @@
         "category": "Fruit"
     },
     {
+        "id": "Z1ArS8",
         "name": "Strawberries",
         "price": 2.12,
         "quantity": 6,
