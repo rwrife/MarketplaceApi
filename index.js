@@ -12,7 +12,7 @@ app.use(cors());
 app.use('/img', serveStatic(staticBasePath, {'index': false}));
 
 app.get('/api', (req, res) => {
-    res.send(JSON.stringify(data))
+    res.json(data)
 })
 
 app.listen(process.env.PORT  || 8080);
