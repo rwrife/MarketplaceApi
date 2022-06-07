@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Apples",
+        "price": 2.89,
+        "quantity": 10,
+        "image": "/img/apples.jpg",
+        "category": "Fruit"
+    },
+    {
+        "name": "Bananas",
+        "price": 3.12,
+        "quantity": 4,
+        "image": "/img/bananas.jpg",
+        "category": "Fruit"
+    },
+    {
+        "name": "Bell Peppers",
+        "price": 0.90,
+        "quantity": 12,
+        "image": "/img/bellpeppers.jpg",
+        "category": "Vegetable"
+    },
+    {
+        "name": "Blackberries",
+        "price": 0.78,
+        "quantity": 4,
+        "image": "/img/blackberries.jpg",
+        "category": "Fruit"
+    },
+    {
+        "name": "Blueberries",
+        "price": 2.34,
+        "quantity": 110,
+        "image": "/img/blueberries.jpg",
+        "category": "Fruit"
+    },
+    {
+        "name": "Carrots",
+        "price": 1.12,
+        "quantity": 53,
+        "image": "/img/carrots.jpg",
+        "category": "Vegetable"
+    },
+    {
+        "name": "Corn",
+        "price": 1.09,
+        "quantity": 232,
+        "image": "/img/corn.jpg",
+        "category": "Vegetable"
+    },
+    {
+        "name": "Cucumber",
+        "price": 3.12,
+        "quantity": 2,
+        "image": "/img/cucumber.jpg",
+        "category": "Vegetable"
+    },
+    {
+        "name": "Eggplant",
+        "price": 4.12,
+        "quantity": 1,
+        "image": "/img/eggplant.jpg",
+        "category": "Vegetable"
+    },
+    {
+        "name": "Green Beans",
+        "price": 1.90,
+        "quantity": 20,
+        "image": "/img/greenbeans.jpg",
+        "category": "Vegetable"
+    },
+    {
+        "name": "Lemons",
+        "price": 1.12,
+        "quantity": 4,
+        "image": "/img/lemon.jpg",
+        "category": "Fruit"
+    },
+    {
+        "name": "Orange",
+        "price": 1.13,
+        "quantity": 1,
+        "image": "/img/orange.jpg",
+        "category": "Fruit"
+    },
+    {
+        "name": "Raspberries",
+        "price": 0.55,
+        "quantity": 44,
+        "image": "/img/raspberries.jpg",
+        "category": "Fruit"
+    },
+    {
+        "name": "Strawberries",
+        "price": 2.12,
+        "quantity": 6,
+        "image": "/img/strawberries.jpg",
+        "category": "Fruit"
+    }
+]
